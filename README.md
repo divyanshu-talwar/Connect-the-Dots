@@ -7,6 +7,12 @@ Interactively sketching polylines and piecewise bezier curves from the input poi
 * After the last dot/point is added, the user can change the position of existing points on the canvas by clicking (left) over the point to move and dragging it to the desired position on the canvas.
 * `Clear All` button in the menu clears the canvas.
 
+## Application Demo
+1. Polyline
+![polyline-demo](assets/polyline-demo.gif)
+2. Piecewise Bezier curves
+![piecewise-bezier-demo](assets/piecewise-bezier-demo.gif)
+
 ## Execution
 * Generate the object file:
 	* `mkdir build && cd build`
@@ -14,4 +20,4 @@ Interactively sketching polylines and piecewise bezier curves from the input poi
 	* `make`
 	* `cd ../`
 * Execute the object file:
-	* `./bin/connect_the_dots`.
+	* `./bin/connect_the_dots`
