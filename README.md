@@ -9,8 +9,11 @@ Interactively sketching polylines and piecewise bezier curves from the input poi
 
 ## Application Demo
 1. Polyline
+
 ![polyline-demo](assets/polyline-demo.gif)
-2. Piecewise Bezier curves
+
+2. Piecewise Bezier curve
+
 ![piecewise-bezier-demo](assets/piecewise-bezier-demo.gif)
 
 ## Execution
